@@ -1,0 +1,10 @@
+[package]
+name = "dobot_cr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[example]]
+name = "zeros"
+path = "examples/zeros.rs"

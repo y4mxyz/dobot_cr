@@ -1,2 +1,2 @@
 # dobot_cr
-Rust library for DobotCR series robots
+Rust library for [Dobot](https://www.dobot-robots.com/ "dobot-robots.com")CR series robots
